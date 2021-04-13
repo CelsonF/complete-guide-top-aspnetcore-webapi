@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEV03\\Documents\\Codes\\complete-guide-top-aspnetcore-webapi\\my-books\\my-books.csproj": {}
+    "C:\\Users\\Celson\\source\\repos\\my-books\\my-books\\my-books.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEV03\\Documents\\Codes\\complete-guide-top-aspnetcore-webapi\\my-books\\my-books.csproj": {
+    "C:\\Users\\Celson\\source\\repos\\my-books\\my-books\\my-books.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEV03\\Documents\\Codes\\complete-guide-top-aspnetcore-webapi\\my-books\\my-books.csproj",
+        "projectUniqueName": "C:\\Users\\Celson\\source\\repos\\my-books\\my-books\\my-books.csproj",
         "projectName": "my-books",
-        "projectPath": "C:\\Users\\DEV03\\Documents\\Codes\\complete-guide-top-aspnetcore-webapi\\my-books\\my-books.csproj",
-        "packagesPath": "C:\\Users\\DEV03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEV03\\Documents\\Codes\\complete-guide-top-aspnetcore-webapi\\my-books\\obj\\",
+        "projectPath": "C:\\Users\\Celson\\source\\repos\\my-books\\my-books\\my-books.csproj",
+        "packagesPath": "C:\\Users\\Celson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Celson\\source\\repos\\my-books\\my-books\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DEV03\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Celson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -81,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
